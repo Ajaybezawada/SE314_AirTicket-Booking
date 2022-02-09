@@ -16,10 +16,10 @@ The airport agent can enter the PNR  and grab the passenger details.<br>
 The main purpose of this software is to reduce the manual errors involved in the airline reservation process and makes it convenient for the customers to book the flights <br>when they require so that they can utilize this software to make reservations, modify reservations or cancel a particular reservation.<br>
 
 <h2>Stakeholders</h2><br>
-Employees<br>
-Passengers<br>
-Government Authorities<br>
-Airline Clients<br>
+<li>Employees<br></li>
+<li>Passengers<br></li>
+<li>Government Authorities<br></li>
+<li>Airline Clients<br></li>
 <h2>Modules</h2> <br>
 Login Module<br>
 Booking Module<br>
