@@ -21,14 +21,14 @@ The main purpose of this software is to reduce the manual errors involved in the
 <li>Government Authorities<br></li>
 <li>Airline Clients<br></li>
 <h2>✔️Modules</h2> <br>
-Login Module<br>
+<li>Login Module<br></li>
 <li>Booking Module<br></li>
-Search Module<br>
-Check Availability Module<br>
-Boarding Pass Issual Module<br>
-Payment Module<br>
-Purchase Module<br>
-Exit Module<br>
+<li>Search Module<br></li>
+<li>Check Availability Module<br></li>
+<li>Boarding Pass Issual Module<br></li>
+<li>Payment Module<br></li>
+<li>Purchase Module<br></li>
+<li>Exit Module<br></li>
 
 <h3>✔️ Table(Master/Transaction)</h3><br>
 Primary key — Master table (Flight Info Table)<br>
