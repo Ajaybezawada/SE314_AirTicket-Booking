@@ -7,26 +7,6 @@ Group: 8<br>
 Dept-Sec: CSE-C<br>
 
 
-Name
-Roll
-Role
-B . Purna Ajay
-CB.EN.U4CSE19209
-Project Manager
-Mahesh V
-CB.EN.U4CSE19224
-Software Engineer: App,
-Backend Engineer
-Kailash M
-CB.EN.U4CSE19229
-Business Analyst
-Naveen Aditiya B
-CB.EN.U4CSE19232
-Software Tester
-Varsha M
-CB.EN.U4CSE19258
-Software Engineer: Web
-
 
 # About the project<br>
 We will be creating an Airline Booking System which will help the customers to book a flight ticket. The customers can modify and cancel the ticket.<br>
