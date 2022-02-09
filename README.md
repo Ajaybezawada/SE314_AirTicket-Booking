@@ -21,28 +21,27 @@ The main purpose of this software is to reduce the manual errors involved in the
 <li>Government Authorities<br></li>
 <li>Airline Clients<br></li>
 <h2>Modules</h2> <br>
-<li>Login Module</li><br>
-<li>Booking Module</li><br>
-<li>Search Module</li><br>
-<li>Check Availability Module</li><br>
-<li>Boarding Pass Issual Module</li><br>
-<li>Payment Module</li><br>
-<li>Purchase Module</li><br>
-<li>Exit Module</li><br>
+Login Module<br>
+Booking Module<br>
+Search Module<br>
+Check Availability Module<br>
+Boarding Pass Issual Module<br>
+Payment Module<br>
+Purchase Module<br>
+Exit Module<br>
 
 <h3>Table(Master/Transaction)</h3><br>
 Primary key — Master table (Flight Info Table)<br>
 Foreign key — Transaction table<br>
-Ticket Price Table-price,flight boarding point,flight destination,flight name,flight-ID.<br>
-Ticket Cancellation Status Table-price,flight boarding point,flight destination,flight name,flight-ID(change if any requirements)<br>
-Flight Schedule Table-flight-ID,flight_name,date,time,flight_boarding point,flight_destination_point,path_taken.<br>
-Login Details Table-name ,username,user_id,address,aadhaar_number,passport_number,phone_number,date_of_birth,password.<br>
-Flight Info Table-flight_name,airline_name,no_of_tickets_available,_cost_of_ticket,flight_destination,travel_date,time,seat_vacancy,passenger_id<br>
-Flight Route Table-flight_name,flight_id,flight_destination,flight_starting_from,path_taken,date,time<br>
-Airport Staff Table-staff__id,staff_name,staff_shift_hour,aadhar_no,date_of_birth<br>
-Passenger Table-passenger_id,passenger_name,passenger_mobile,passenger_username,passenger_password,passenger_address,aadhar_no,date_of_birth<br>
-Transaction Table-Transaction_ID,price,payment_method.<br>
-User_id, payment_id, <br>
+Ticket Price Table- price,flight boarding point,flight destination,flight name,flight-ID.<br>
+Ticket Cancellation Status Table- price,flight boarding point,flight destination,flight name,flight-ID(change if any requirements)<br>
+Flight Schedule Table- flight-ID,flight_name,date,time,flight_boarding point,flight_destination_point,path_taken.<br>
+Login Details Table- name ,username,user_id,address,aadhaar_number,passport_number,phone_number,date_of_birth,password.<br>
+Flight Info Table- flight_name,airline_name,no_of_tickets_available,_cost_of_ticket,flight_destination,travel_date,time,seat_vacancy,passenger_id<br>
+Flight Route Table- flight_name,flight_id,flight_destination,flight_starting_from,path_taken,date,time<br>
+Airport Staff Table- staff__id,staff_name,staff_shift_hour,aadhar_no,date_of_birth<br>
+Passenger Table- passenger_id,passenger_name,passenger_mobile,passenger_username,passenger_password,passenger_address,aadhar_no,date_of_birth<br>
+Transaction Table- Transaction_ID,price,payment_method,User_id, payment_id, <br>
 
 <h4>Tools/Languages:</h4><br>
 VScode, MongoDB,Android Studio(Java)+SQLite<br>
