@@ -7,7 +7,7 @@ Group: 8<br>
 Dept-Sec: CSE-C<br>
 
 
-About the project<br>
+<h2>About the project</h2><br>
 We will be creating an Airline Booking System which will help the customers to book a flight ticket. The customers can modify and cancel the ticket.<br>
 Given that the passenger hasn't already registered, will allow creating an account<br>
 The boarding pass will contain the passenger details, scannable QR code of their PNR number, seat number.<br>
