@@ -42,7 +42,7 @@ Employees<br>
 Passengers<br>
 Government Authorities<br>
 Airline Clients<br>
-<h2>Modules<h2><br>
+<h2>Modules</h2> <br>
 Login Module<br>
 Booking Module<br>
 Search Module<br>
