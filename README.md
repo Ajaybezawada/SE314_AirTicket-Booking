@@ -1,10 +1,10 @@
 # SE314
-Software Engineering 
+Software Engineering <br>
 
 
-Topic: Airline Seat Selection, Boarding Pass Issuance And Aircraft Boarding
-Group: 8
-Dept-Sec: CSE-C
+Topic: Airline Seat Selection, Boarding Pass Issuance And Aircraft Boarding<br>
+Group: 8<br>
+Dept-Sec: CSE-C<br>
 
 
 Name
