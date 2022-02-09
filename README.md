@@ -64,27 +64,4 @@ Admin will be able to search booking enquiry and has permission to edit , add an
 Passenger will be able to generate a report of airline ticket booking.<br>
 Admin can update  the price of the Flight Ticket.<br>
 
-Requirements:</h3><br>
-	<h4>User<h4><br>
-	<h5>a) Passenger :</h5> <br>
-Login<br>
-KYC Details and Update <br>
-Search Ticket<br>
-Book Ticket <br>
-Payment<br> 
-After payment receives receipt and schedule<br>
-	<h5>b) Government Authorities:</h5><br>
-Login <br>
-KYC Details and Update<br>
-PNR Searching <br>
-Ticket cancellations module<br>
-	c)  <h5>Admin(Airline reservation system)</h5><br>
-Display list of vacant schedules<br>
-Display reservation info and payment<br>
-Receives the payment and transaction<br>
-Generates reservation form and release receipt<br>
-        d) <h5> Airline Clients
-	</h5><br>
-	Login<br>
- Price updation portal <br>
-**********************************
+
