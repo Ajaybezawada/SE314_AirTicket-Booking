@@ -65,6 +65,6 @@ Admin will be able to search booking enquiry and has permission to edit , add an
 Passenger will be able to generate a report of airline ticket booking.<br>
 Admin can update  the price of the Flight Ticket.<br>
 
-<h3>Requirments</h3>
+<h3>✔️Requirments</h3>
 1. customizations to customers like selecting on flight entertainment etc..<br>
 2. Integration of payment portal<br>
