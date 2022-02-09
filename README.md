@@ -22,7 +22,7 @@ The main purpose of this software is to reduce the manual errors involved in the
 <li>Airline Clients<br></li>
 <h2>✔️Modules</h2> <br>
 Login Module<br>
-Booking Module<br>
+<li>Booking Module<br></li>
 Search Module<br>
 Check Availability Module<br>
 Boarding Pass Issual Module<br>
