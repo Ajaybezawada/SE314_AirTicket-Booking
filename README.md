@@ -6,28 +6,6 @@ Topic: Airline Seat Selection, Boarding Pass Issuance And Aircraft Boarding<br>
 Group: 8<br>
 Dept-Sec: CSE-C<br>
 
-<table><tr>
-	<th>Name</th>
-<th>Roll</th>
-	<th>Role</th></tr>
-<tr>
-	<td>B . Purna Ajay</td>
-CB.EN.U4CSE19209
-Project Manager
-Mahesh V
-CB.EN.U4CSE19224
-Software Engineer: App,
-Backend Engineer
-Kailash M
-CB.EN.U4CSE19229
-Business Analyst
-Naveen Aditiya B
-CB.EN.U4CSE19232
-Software Tester
-Varsha M
-CB.EN.U4CSE19258
-Software Engineer: Web
-</table>
 
 About the project<br>
 We will be creating an Airline Booking System which will help the customers to book a flight ticket. The customers can modify and cancel the ticket.<br>
@@ -88,27 +66,4 @@ Admin will be able to search booking enquiry and has permission to edit , add an
 Passenger will be able to generate a report of airline ticket booking.<br>
 Admin can update  the price of the Flight Ticket.<br>
 
-<h3>Requirements:</h3><br>
-	<h4>User<h4><br>
-	<h5>a) Passenger :</h5> <br>
-Login<br>
-KYC Details and Update <br>
-Search Ticket<br>
-Book Ticket <br>
-Payment<br> 
-After payment receives receipt and schedule<br>
-	<h5>b) Government Authorities:</h5><br>
-Login <br>
-KYC Details and Update<br>
-PNR Searching <br>
-Ticket cancellations module<br>
-	c)  <h5>Admin(Airline reservation system)</h5><br>
-Display list of vacant schedules<br>
-Display reservation info and payment<br>
-Receives the payment and transaction<br>
-Generates reservation form and release receipt<br>
-        d) <h5> Airline Clients
-	</h5><br>
-	Login<br>
- Price updation portal <br>
-**********************************
+
