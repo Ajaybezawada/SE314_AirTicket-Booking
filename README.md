@@ -20,7 +20,7 @@ The main purpose of this software is to reduce the manual errors involved in the
 <li>Passengers<br></li>
 <li>Government Authorities<br></li>
 <li>Airline Clients<br></li>
-<h2>Modules</h2> <br>
+<h2>✔️Modules</h2> <br>
 Login Module<br>
 Booking Module<br>
 Search Module<br>
@@ -43,7 +43,7 @@ Airport Staff Table- staff__id,staff_name,staff_shift_hour,aadhar_no,date_of_bir
 Passenger Table- passenger_id,passenger_name,passenger_mobile,passenger_username,passenger_password,passenger_address,aadhar_no,date_of_birth<br>
 Transaction Table- Transaction_ID,price,payment_method,User_id, payment_id, <br>
 
-<h4>Tools/Languages:</h4><br>
+<h4>✔️ Tools/Languages:</h4><br>
 VScode, MongoDB,Android Studio(Java)+SQLite<br>
 Javascript (NodeJS,EJS,ReactJS), HTML/CSS<br>
 Bootstrap<br>
