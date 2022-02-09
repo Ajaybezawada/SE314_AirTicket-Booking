@@ -28,28 +28,28 @@ CB.EN.U4CSE19258
 Software Engineer: Web
 
 
-About the project
-We will be creating an Airline Booking System which will help the customers to book a flight ticket. The customers can modify and cancel the ticket.
-Given that the passenger hasn't already registered, will allow creating an account
-The boarding pass will contain the passenger details, scannable QR code of their PNR number, seat number.
-The airport agent can enter the flight ID and grab the passenger list.
-The airport agent can enter the PNR  and grab the passenger details.
-The main purpose of this software is to reduce the manual errors involved in the airline reservation process and makes it convenient for the customers to book the flights when they require so that they can utilize this software to make reservations, modify reservations or cancel a particular reservation.
+About the project<br>
+We will be creating an Airline Booking System which will help the customers to book a flight ticket. The customers can modify and cancel the ticket.<br>
+Given that the passenger hasn't already registered, will allow creating an account<br>
+The boarding pass will contain the passenger details, scannable QR code of their PNR number, seat number.<br>
+The airport agent can enter the flight ID and grab the passenger list.<br>
+The airport agent can enter the PNR  and grab the passenger details.<br>
+The main purpose of this software is to reduce the manual errors involved in the airline reservation process and makes it convenient for the customers to book the flights <br>when they require so that they can utilize this software to make reservations, modify reservations or cancel a particular reservation.<br>
 
-Stakeholders
-Employees
-Passengers
-Government Authorities
-Airline Clients
-Modules
-Login Module
-Booking Module
-Search Module
-Check Availability Module
-Boarding Pass Issual Module
-Payment Module
-Purchase Module
-Exit Module
+Stakeholders<br>
+Employees<br>
+Passengers<br>
+Government Authorities<br>
+Airline Clients<br>
+Modules<br>
+Login Module<br>
+Booking Module<br>
+Search Module<br>
+Check Availability Module<br>
+Boarding Pass Issual Module<br>
+Payment Module<br>
+Purchase Module<br>
+Exit Module<br>
 
 Table(Master/Transaction)
 Primary key — Master table (Flight Info Table)
