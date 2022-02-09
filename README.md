@@ -40,7 +40,7 @@ Login Details Table- name ,username,user_id,address,aadhaar_number,passport_numb
 Flight Info Table- flight_name,airline_name,no_of_tickets_available,_cost_of_ticket,flight_destination,travel_date,time,seat_vacancy,passenger_id<br>
 Flight Route Table- flight_name,flight_id,flight_destination,flight_starting_from,path_taken,date,time<br>
 Airport Staff Table- staff__id,staff_name,staff_shift_hour,aadhar_no,date_of_birth<br>
-Passenger Table- passenger_id,passenger_name,passenger_mobile,passenger_username,passenger_password,passenger_address,aadhar_no,date_of_birth<br>
+Passenger Table-  passenger_id,passenger_name,passenger_mobile,passenger_username,passenger_password,passenger_address,aadhar_no,date_of_birth<br>
 Transaction Table- Transaction_ID,price,payment_method,User_id, payment_id, <br>
 
 <h4>Tools/Languages:</h4><br>
@@ -65,4 +65,7 @@ Admin will be able to search booking enquiry and has permission to edit , add an
 Passenger will be able to generate a report of airline ticket booking.<br>
 Admin can update  the price of the Flight Ticket.<br>
 
+<h3>Requirments</h3><br>
+1. customizations to customers like selecting on flight entertainment etc..<br>
+2. Integration of payment portal
 
