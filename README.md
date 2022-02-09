@@ -1,5 +1,5 @@
 # SE314
-Software Engineering <br>
+<h1>Software Engineering </h1><br>
 
 
 Topic: Airline Seat Selection, Boarding Pass Issuance And Aircraft Boarding<br>
@@ -42,7 +42,7 @@ Employees<br>
 Passengers<br>
 Government Authorities<br>
 Airline Clients<br>
-Modules<br>
+<h2>Modules<h2><br>
 Login Module<br>
 Booking Module<br>
 Search Module<br>
