@@ -6,38 +6,6 @@ Topic: Airline Seat Selection, Boarding Pass Issuance And Aircraft Boarding<br>
 Group: 8<br>
 Dept-Sec: CSE-C<br>
 
-<table>
-	<tr>
-		<th>Name</th>
-		<th>Roll No.</th>
-		<th>Role<th>
-	</tr>
-	<tr>
-		<td>B Purna Ajay</td>
-		<td>CB.EN.U4CSE19209</td>
-		<td>Scrum Master</td>
-	</tr>
-	<tr>
-		<td>Mahesh V Iyer</td>
-		<td>CB.EN.U4CSE19224</td>
-		<td>Developer: Android</td>
-	</tr>
-	<tr>
-		<td>M Kailash</td>
-		<td>CB.EN.U4CSE19229</td>
-		<td>Business Analyst</td>
-	</tr>
-	<tr>
-		<td>B Naveen Aditiya</td>
-		<td>CB.EN.U4CSE19232</td>
-		<td>Tester</td>
-	</tr>
-	<tr>
-		<td>Varsha M</td>
-		<td>CB.EN.U4CSE19252</td>
-		<td>Developer: Web</td>
-	</tr>
-</table>
 
 
 # About the project<br>
@@ -49,11 +17,11 @@ The airport agent can enter the PNR  and grab the passenger details.<br>
 The main purpose of this software is to reduce the manual errors involved in the airline reservation process and makes it convenient for the customers to book the flights <br>when they require so that they can utilize this software to make reservations, modify reservations or cancel a particular reservation.<br>
 
 # Stakeholders <br>
-Employees<br>
-Passengers<br>
-Government Authorities<br>
-Airline Clients<br>
-Modules<br>
+<li>Employees<br></li>
+<li>Passengers<br></li>
+<li>Government Authorities<br></li>
+<li>Airline Clients<br></li>
+# Modules<br>
 Login Module<br>
 Booking Module<br>
 Search Module<br>
@@ -96,27 +64,4 @@ Admin will be able to search booking enquiry and has permission to edit , add an
 Passenger will be able to generate a report of airline ticket booking.<br>
 Admin can update  the price of the Flight Ticket.<br>
 
-Requirements:</h3><br>
-	<h4>User<h4><br>
-	<h5>a) Passenger :</h5> <br>
-Login<br>
-KYC Details and Update <br>
-Search Ticket<br>
-Book Ticket <br>
-Payment<br> 
-After payment receives receipt and schedule<br>
-	<h5>b) Government Authorities:</h5><br>
-Login <br>
-KYC Details and Update<br>
-PNR Searching <br>
-Ticket cancellations module<br>
-	c)  <h5>Admin(Airline reservation system)</h5><br>
-Display list of vacant schedules<br>
-Display reservation info and payment<br>
-Receives the payment and transaction<br>
-Generates reservation form and release receipt<br>
-        d) <h5> Airline Clients
-	</h5><br>
-	Login<br>
- Price updation portal <br>
-**********************************
+
